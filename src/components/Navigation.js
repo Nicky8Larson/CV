@@ -7,7 +7,7 @@ const Navigation = () => {
         <div className="sidebar">
             <div className="id">
                 <div className="idContent">
-                    <img src="../media/sammyMERAZGA.jpg" alt="profile-pic"/>
+                    <img src="./media/sammyMERAZGA.jpg" alt="profile-pic"/>
                     <h3>Sammy MERAZGA</h3>
                 </div>
             </div>
@@ -15,25 +15,25 @@ const Navigation = () => {
             <div className="navigation">
                 <ul>
                 <li>
-                    <NavLink exact to="/" activeClassName="navActive">
+                    <NavLink exact to="/CV/" activeClassName="navActive">
                         <i className="fas fa-home"></i>
                         <span>Accueil</span>
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink exact to="/competences" activeClassName="navActive">
+                    <NavLink exact to="/CV/competences" activeClassName="navActive">
                         <i className="fas fa-mountain"></i>
                         <span>Compétences</span>
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink exact to="/portfolio" activeClassName="navActive">
+                    <NavLink exact to="/CV/portfolio" activeClassName="navActive">
                         <i className="fas fa-images"></i>
                         <span>Portfolio</span>
                     </NavLink>
                 </li>
                 <li>
-                    <NavLink exact to="/contact" activeClassName="navActive">
+                    <NavLink exact to="/CV/contact" activeClassName="navActive">
                         <i className="fas fa-address-book"></i>
                         <span>Contact</span>
                     </NavLink>
