@@ -34,19 +34,6 @@ const Experience = () => {
           et Shopify
         </p>
       </div>
-      <div className="exp-3">
-        <h4>Groupe Etic (Intérim)</h4>
-        <h5>Juin 2021</h5>
-        <p>
-          Distribution de prospectus et accessoires ; préparation de l’évenement
-          « La fête des terrasses » dans la région PACA.
-        </p>
-        <h5>Juillet 2021</h5>
-        <p>
-          Téléconseiller chez Alta Etic ; prise d'appel pour plusieurs
-          concessions de la région PACA (Service standard).
-        </p>
-      </div>
     </div>
   );
 };
