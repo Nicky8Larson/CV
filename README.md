@@ -6,7 +6,7 @@
 
 ## This website is available online ! 🌐
 
-[]: # Path: https://sammymerazga.github.io/cv/
+https://sammymerazga.github.io/cv/
 
 ~ Hosted with [GitHub Pages](https://pages.github.com/) ~
 
