@@ -19,25 +19,7 @@ https://sammymerazga.github.io/cv/
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Npm](https://img.shields.io/badge/-npm-05122A?style=flat&logo=npm)&nbsp;
 
-## Project setup 👇
-```
-yarn install
-```
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-### Compiles and minifies for production
-```
-yarn build
-```
-### Lints and fixes files
-```
-yarn lint
-```
-
-
-## Available Scripts
+## Available Scripts 👇
 
 In the project directory, you can run:
 
