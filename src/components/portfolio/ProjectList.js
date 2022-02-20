@@ -9,7 +9,7 @@ export default class ProjectList extends Component {
             {id: 1, value: "html/css"},
             {id: 2, value: "php"},
             {id: 3, value: "javascript"},
-            {id: 4, value: "react"}
+            {id: 4, value: "vuejs"}
         ],
         selectedRadio: 'html/css'
     };

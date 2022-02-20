@@ -4,12 +4,6 @@
 
 ![alt text](./src/media/Screens/HomePage.png)
 
-## This website is available online ! 🌐
-
-https://sammymerazga.github.io/cv/
-
-~ Hosted with [GitHub Pages](https://pages.github.com/) ~
-
 ## Technologies used 💻
 
 ![JavaScript](https://img.shields.io/badge/-javascript-05122A?style=flat&logo=javascript)&nbsp;
