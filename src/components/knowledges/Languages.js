@@ -7,14 +7,14 @@ class Languages extends Component {
             {id: 1, value: "HTML/CSS", xp:2},
             {id: 2, value: "PHP", xp:1.9},
             {id: 3, value: "Javascript", xp:1.5},
-            {id: 4, value: "Typescript", xp:1},
+            {id: 4, value: "Typescript", xp:1.3},
             {id:5, value: "Java", xp:0.7}
         ],
         frameworks : [
-            {id: 1, value: "VueJS", xp:1.7},
+            {id: 1, value: "VueJS", xp:1.9},
             {id: 2, value: "ReactJS", xp:1.3},
-            {id: 4, value: "Bootstrap", xp:1.8},
-            {id: 3, value: "Symfony", xp:0.9},
+            {id: 4, value: "Bootstrap", xp:1.6},
+            {id: 3, value: "Symfony", xp:1.0},
             {id: 4, value: "ExpressJS", xp:1.1},
             {id: 4, value: "Quarkus", xp:0.2}
         ]

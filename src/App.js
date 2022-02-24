@@ -11,10 +11,10 @@ const App = () => {
     <>
       <BrowserRouter>
         <Switch>
-          <Route path="/cv" exact component={Home} />
-          <Route path="/cv/competences" component={Knowledges} />
-          <Route path="/cv/portfolio" component={Portfolio} />
-          <Route path="/cv/contact" component={Contact} />
+          <Route path="/" exact component={Home} />
+          <Route path="/competences" component={Knowledges} />
+          <Route path="/portfolio" component={Portfolio} />
+          <Route path="/contact" component={Contact} />
           <Route component={NotFound} />
         </Switch>
       </BrowserRouter>
